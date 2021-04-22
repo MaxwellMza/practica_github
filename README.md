@@ -3,7 +3,7 @@
 # Integrantes grupo: 
 # Geronimo Garcia
 # Gonzalo Silva
-#Max
+#Maxwell
 =======
 ### Correción PAblo M
 >>>>>>> origin

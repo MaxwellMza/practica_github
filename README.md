@@ -1,10 +1,11 @@
 # practica_github
-<<<<<<< HEAD
 # Integrantes grupo: 
 # Geronimo Garcia
 # Gonzalo Silva
 #Maxwell
 =======
 ### Correción PAblo M
->>>>>>> origin
+### Fabricio Palmarocchi
+##Vanesa Lana
+>>>>>>> upstream/main
 
